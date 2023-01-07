@@ -35,21 +35,22 @@ async function getIssues(url, i, j){
     let browser = new wd.Builder().forBrowser('chrome').build();
     await browser.get(`${url}/issues`);
     finalData[i].projects[j]["issues"] = [];
-    let issuesBoxes = await browser.findElement(wd.By.css(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title"));
+    let issuesBoxes = await browser.findElements(wd.By.css(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title")); 
     let currUrl = await browser.getCurrentUrl();
-    if(currUrl == url+"/issues" && issuesBoxes.length != 0){
+    if(currUrl == (url+"/issues") && issuesBoxes.length != 0){
         for(let k in issuesBoxes){
             if(k == 8){
                 break;
             }
-            let heading = await issuesBoxes[k].getAttribute("innerText");
-            let url = await issuesBoxes[k].getAttribute("href");
-             finalData[i].projects[j].issues.push({"heading" : heading, "url" : url});
-            //finalData[i].projects[j]["issues"].push({"issueHeading" : heading, "url" : url});
+            let heading  = await issuesBoxes[k].getAttribute("innerText");
+            let url = await issuesBoxes[k].getAttribute("href"); 
+            // let heading = await issuesBoxes[k].getAttribute("innerText");
+            // let url = await issuesBoxes[k].getAttribute("href");
+            finalData[i].projects[j].issues.push({"heading" : heading, "url" : url});
         }
     }
     projectCovered +=1;
-    await browser.wait(wd.until.elementsLocated(wd.By.css(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title")));
+    // await browser.wait(wd.until.elementsLocated(wd.By.css(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title")));
     if(projectCovered == totalProjects ){
         fs.writeFileSync("finalData.json", JSON.stringify(finalData));
     }
