@@ -1,0 +1,239 @@
+[
+  {
+    "topicUrl": "https://github.com/topics/nativescript",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/NativeScript/NativeScript",
+        "issues": [
+          {
+            "heading": "Can launch the project with android emilator",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10162"
+          },
+          {
+            "heading": "Error: Build input file cannot be found, when building NativeScript application with Xcode 14.1 using m1 mac",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10144"
+          },
+          {
+            "heading": "iOS: When execute more than one animation it is not canceled",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10143"
+          },
+          {
+            "heading": "Custom Library not working in android 12 with nativeScript 8",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10130"
+          },
+          {
+            "heading": "WebView stopLoading not working on android and ios",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10128"
+          },
+          {
+            "heading": "Orientation Change is not working 16.1",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10123"
+          },
+          {
+            "heading": "Integrate NS app with native ios swift app",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10122"
+          },
+          {
+            "heading": "[RootLayout] TypeError: Cannot read property 'setOnTouchListener' of undefined",
+            "url": "https://github.com/NativeScript/NativeScript/issues/10118"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/nativescript-vue/nativescript-vue",
+        "issues": [
+          {
+            "heading": "Watch of props not activated",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1024"
+          },
+          {
+            "heading": "Styles not applied in apk",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1020"
+          },
+          {
+            "heading": "Add IntelliSense for core elements in templates",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1019"
+          },
+          {
+            "heading": "vue-router support",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1014"
+          },
+          {
+            "heading": "When the application has errors HMR slows down more and more",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1013"
+          },
+          {
+            "heading": "Error changing properties of an element through ref",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1012"
+          },
+          {
+            "heading": "Cannot navigate anymore after using clearHistory on a root frame.",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/996"
+          },
+          {
+            "heading": "Routing not working with sub frame.",
+            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/959"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://github.com/topics/redux",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/reduxjs/redux",
+        "issues": [
+          {
+            "heading": "Odd crash on Expo when minified and in production mode",
+            "url": "https://github.com/reduxjs/redux/issues/4443"
+          },
+          {
+            "heading": "Redux FAQ: Organizing State Outdated",
+            "url": "https://github.com/reduxjs/redux/issues/4421"
+          },
+          {
+            "heading": "Add a new \"TS Usage\" page to the Redux Essentials tutorial",
+            "url": "https://github.com/reduxjs/redux/issues/4393"
+          },
+          {
+            "heading": "[Docs] Add admonitions warning about tutorials teaching \"redux\" vs \"redux toolkit\"",
+            "url": "https://github.com/reduxjs/redux/issues/4389"
+          },
+          {
+            "heading": "Enable type-only imports",
+            "url": "https://github.com/reduxjs/redux/issues/4382"
+          },
+          {
+            "heading": "[tutorial] Reactions update is broken in <SinglePostPage />",
+            "url": "https://github.com/reduxjs/redux/issues/4375"
+          },
+          {
+            "heading": "Consider removing Internet Explorer support",
+            "url": "https://github.com/reduxjs/redux/issues/4368"
+          },
+          {
+            "heading": "Reference to old redux-devtools-extension",
+            "url": "https://github.com/reduxjs/redux/issues/4300"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+        "issues": [
+          {
+            "heading": "misspelling",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/638"
+          },
+          {
+            "heading": "Learn",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/637"
+          },
+          {
+            "heading": "Day 1: (readMe.md) typo",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/634"
+          },
+          {
+            "heading": "Now code on mobile with Dcoder",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/633"
+          },
+          {
+            "heading": "Day 5 Level 3 Q1",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/631"
+          },
+          {
+            "heading": "30 Days of Javascript",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/630"
+          },
+          {
+            "heading": "JS",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/629"
+          },
+          {
+            "heading": "Day 4: typo",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://github.com/topics/ios",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/flutter/flutter",
+        "issues": [
+          {
+            "heading": "The comment of the CircularProgressIndicator.adaptive() is misleading.",
+            "url": "https://github.com/flutter/flutter/issues/118144"
+          },
+          {
+            "heading": "Failing to run flutter run before cleaning project",
+            "url": "https://github.com/flutter/flutter/issues/118143"
+          },
+          {
+            "heading": "Implement PlatformView mutators on macOS",
+            "url": "https://github.com/flutter/flutter/issues/118142"
+          },
+          {
+            "heading": "[tool_crash] ProcessException: No such file or directory Command: google-chrome, OS error code: 2",
+            "url": "https://github.com/flutter/flutter/issues/118141"
+          },
+          {
+            "heading": "Ghosting when using border with container",
+            "url": "https://github.com/flutter/flutter/issues/118140"
+          },
+          {
+            "heading": "Failed assertion: line 5259 pos 14: '_dependents.isEmpty': is not true.",
+            "url": "https://github.com/flutter/flutter/issues/118139"
+          },
+          {
+            "heading": "right click on the text field after focusNode.requestFocus()",
+            "url": "https://github.com/flutter/flutter/issues/118138"
+          },
+          {
+            "heading": "[documentation] Improve the documentation for building custom widgets that include semantics",
+            "url": "https://github.com/flutter/flutter/issues/118137"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/facebook/react-native",
+        "issues": [
+          {
+            "heading": "Image Pipeline has not initialized",
+            "url": "https://github.com/facebook/react-native/issues/35784"
+          },
+          {
+            "heading": "undefined reference to `facebook::react::AppSpec_ModuleProvider IN 0.70.6 ANDROID",
+            "url": "https://github.com/facebook/react-native/issues/35783"
+          },
+          {
+            "heading": "RCT_NEW_ARCH_ENABLED=1 bundle exec pod install fails",
+            "url": "https://github.com/facebook/react-native/issues/35780"
+          },
+          {
+            "heading": "RefreshControl refresh indicator is not shown on iOS",
+            "url": "https://github.com/facebook/react-native/issues/35779"
+          },
+          {
+            "heading": "Since React Native 0.69, useEffects appear to be flushed synchronously even in React legacy mode",
+            "url": "https://github.com/facebook/react-native/issues/35778"
+          },
+          {
+            "heading": "How react-native applets support taro products",
+            "url": "https://github.com/facebook/react-native/issues/35776"
+          },
+          {
+            "heading": "iOS Accessibility Value Out of Sync",
+            "url": "https://github.com/facebook/react-native/issues/35774"
+          },
+          {
+            "heading": "KeyboardType doesn't allow dynamic textinput color prop changing",
+            "url": "https://github.com/facebook/react-native/issues/35769"
+          }
+        ]
+      }
+    ]
+  }
+]
