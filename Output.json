@@ -1,236 +1,200 @@
 [
   {
-    "topicUrl": "https://github.com/topics/nativescript",
+    "topicUrl": "https://github.com/topics/rust",
     "projects": [
       {
-        "projectUrl": "https://github.com/NativeScript/NativeScript",
+        "projectUrl": "https://github.com/denoland/deno",
         "issues": [
           {
-            "heading": "Can launch the project with android emilator",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10162"
+            "heading": "deno test --filter outputs too much noise",
+            "url": "https://github.com/denoland/deno/issues/17312"
           },
           {
-            "heading": "Error: Build input file cannot be found, when building NativeScript application with Xcode 14.1 using m1 mac",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10144"
+            "heading": "Deno test --watch flag only works when specifying a path",
+            "url": "https://github.com/denoland/deno/issues/17310"
           },
           {
-            "heading": "iOS: When execute more than one animation it is not canceled",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10143"
+            "heading": "server.unref (from net.createServer) does not throw \"unstable required\" error",
+            "url": "https://github.com/denoland/deno/issues/17307"
           },
           {
-            "heading": "Custom Library not working in android 12 with nativeScript 8",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10130"
+            "heading": "Cache::put() behavior",
+            "url": "https://github.com/denoland/deno/issues/17299"
           },
           {
-            "heading": "WebView stopLoading not working on android and ios",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10128"
+            "heading": "Relative paths in TypeScript config should be resolved from config path",
+            "url": "https://github.com/denoland/deno/issues/17298"
           },
           {
-            "heading": "Orientation Change is not working 16.1",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10123"
+            "heading": "Unhandled rejection on http server",
+            "url": "https://github.com/denoland/deno/issues/17291"
           },
           {
-            "heading": "Integrate NS app with native ios swift app",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10122"
+            "heading": "hang after importing node-api module",
+            "url": "https://github.com/denoland/deno/issues/17288"
           },
           {
-            "heading": "[RootLayout] TypeError: Cannot read property 'setOnTouchListener' of undefined",
-            "url": "https://github.com/NativeScript/NativeScript/issues/10118"
+            "heading": "How to prevent deep dependencies duplication?",
+            "url": "https://github.com/denoland/deno/issues/17286"
           }
         ]
       },
       {
-        "projectUrl": "https://github.com/nativescript-vue/nativescript-vue",
+        "projectUrl": "https://github.com/rust-lang/rust",
         "issues": [
           {
-            "heading": "Watch of props not activated",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1024"
+            "heading": "inline_const does not evaluate in unused function",
+            "url": "https://github.com/rust-lang/rust/issues/106617"
           },
           {
-            "heading": "Styles not applied in apk",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1020"
+            "heading": "Inefficient code generated from ToString::to_string() for bool",
+            "url": "https://github.com/rust-lang/rust/issues/106611"
           },
           {
-            "heading": "Add IntelliSense for core elements in templates",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1019"
+            "heading": "LTO produces worse codegen for a loop",
+            "url": "https://github.com/rust-lang/rust/issues/106609"
           },
           {
-            "heading": "vue-router support",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1014"
+            "heading": "Unnecessary lseek syscall when using std::fs::read",
+            "url": "https://github.com/rust-lang/rust/issues/106597"
           },
           {
-            "heading": "When the application has errors HMR slows down more and more",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1013"
+            "heading": "example on String::from_raw_parts is correct in-context, but raise Miri error with seemingly sound modification",
+            "url": "https://github.com/rust-lang/rust/issues/106593"
           },
           {
-            "heading": "Error changing properties of an element through ref",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/1012"
+            "heading": "Split DWARF seems to leave a lot of DWARF behind in the main executable.",
+            "url": "https://github.com/rust-lang/rust/issues/106592"
           },
           {
-            "heading": "Cannot navigate anymore after using clearHistory on a root frame.",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/996"
+            "heading": "Labeled line for \"here the type of var is inferred to be\" can be wrong",
+            "url": "https://github.com/rust-lang/rust/issues/106590"
           },
           {
-            "heading": "Routing not working with sub frame.",
-            "url": "https://github.com/nativescript-vue/nativescript-vue/issues/959"
+            "heading": "E0711 emitted even when staged_api is not enabled",
+            "url": "https://github.com/rust-lang/rust/issues/106589"
           }
         ]
       }
     ]
   },
   {
-    "topicUrl": "https://github.com/topics/redux",
+    "topicUrl": "https://github.com/topics/gulp",
     "projects": [
+      { "projectUrl": "https://github.com/miniMAC/magic", "issues": [] },
       {
-        "projectUrl": "https://github.com/reduxjs/redux",
+        "projectUrl": "https://github.com/vigetlabs/blendid",
         "issues": [
           {
-            "heading": "Odd crash on Expo when minified and in production mode",
-            "url": "https://github.com/reduxjs/redux/issues/4443"
+            "heading": "ERROR in bundle.js from UglifyJs Unexpected token: name (ChangeDesc) [bundle.js:2900,6]",
+            "url": "https://github.com/vigetlabs/blendid/issues/592"
           },
           {
-            "heading": "Redux FAQ: Organizing State Outdated",
-            "url": "https://github.com/reduxjs/redux/issues/4421"
+            "heading": "Configuration for swiper to work",
+            "url": "https://github.com/vigetlabs/blendid/issues/584"
           },
           {
-            "heading": "Add a new \"TS Usage\" page to the Redux Essentials tutorial",
-            "url": "https://github.com/reduxjs/redux/issues/4393"
+            "heading": "wrong generation of path for js-files in rev-manifest on windows",
+            "url": "https://github.com/vigetlabs/blendid/issues/583"
           },
           {
-            "heading": "[Docs] Add admonitions warning about tutorials teaching \"redux\" vs \"redux toolkit\"",
-            "url": "https://github.com/reduxjs/redux/issues/4389"
+            "heading": "html watch task does not notice changes to files added after Blendid was started",
+            "url": "https://github.com/vigetlabs/blendid/issues/580"
           },
           {
-            "heading": "Enable type-only imports",
-            "url": "https://github.com/reduxjs/redux/issues/4382"
+            "heading": "empty prebuild and postbuild configs must be null/false, not []. change this behavior?",
+            "url": "https://github.com/vigetlabs/blendid/issues/579"
           },
           {
-            "heading": "[tutorial] Reactions update is broken in <SinglePostPage />",
-            "url": "https://github.com/reduxjs/redux/issues/4375"
+            "heading": "upgrade to gulp 4",
+            "url": "https://github.com/vigetlabs/blendid/issues/578"
           },
           {
-            "heading": "Consider removing Internet Explorer support",
-            "url": "https://github.com/reduxjs/redux/issues/4368"
+            "heading": "Failed to mount component: template or render function not defined",
+            "url": "https://github.com/vigetlabs/blendid/issues/576"
           },
           {
-            "heading": "Reference to old redux-devtools-extension",
-            "url": "https://github.com/reduxjs/redux/issues/4300"
-          }
-        ]
-      },
-      {
-        "projectUrl": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-        "issues": [
-          {
-            "heading": "misspelling",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/638"
-          },
-          {
-            "heading": "Learn",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/637"
-          },
-          {
-            "heading": "Day 1: (readMe.md) typo",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/634"
-          },
-          {
-            "heading": "Now code on mobile with Dcoder",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/633"
-          },
-          {
-            "heading": "Day 5 Level 3 Q1",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/631"
-          },
-          {
-            "heading": "30 Days of Javascript",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/630"
-          },
-          {
-            "heading": "JS",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/629"
-          },
-          {
-            "heading": "Day 4: typo",
-            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript/issues/608"
+            "heading": "Not bundle jquery in production",
+            "url": "https://github.com/vigetlabs/blendid/issues/570"
           }
         ]
       }
     ]
   },
   {
-    "topicUrl": "https://github.com/topics/ios",
+    "topicUrl": "https://github.com/topics/firefox",
     "projects": [
       {
-        "projectUrl": "https://github.com/flutter/flutter",
+        "projectUrl": "https://github.com/microsoft/playwright",
         "issues": [
           {
-            "heading": "The comment of the CircularProgressIndicator.adaptive() is misleading.",
-            "url": "https://github.com/flutter/flutter/issues/118144"
+            "heading": "[Question] How do I locate a upper level element?",
+            "url": "https://github.com/microsoft/playwright/issues/19949"
           },
           {
-            "heading": "Failing to run flutter run before cleaning project",
-            "url": "https://github.com/flutter/flutter/issues/118143"
+            "heading": "[BUG] RouteFromHAR response to multiple graphql requests with the same result.",
+            "url": "https://github.com/microsoft/playwright/issues/19948"
           },
           {
-            "heading": "Implement PlatformView mutators on macOS",
-            "url": "https://github.com/flutter/flutter/issues/118142"
+            "heading": "[Question] Is it possible to launch playwright chromium from another browser?",
+            "url": "https://github.com/microsoft/playwright/issues/19947"
           },
           {
-            "heading": "[tool_crash] ProcessException: No such file or directory Command: google-chrome, OS error code: 2",
-            "url": "https://github.com/flutter/flutter/issues/118141"
+            "heading": "[BUG] Serious performance degregation on 1.29",
+            "url": "https://github.com/microsoft/playwright/issues/19946"
           },
           {
-            "heading": "Ghosting when using border with container",
-            "url": "https://github.com/flutter/flutter/issues/118140"
+            "heading": "[BUG] Playwright inspector highlights the wrong line of code (with cucumber.js)",
+            "url": "https://github.com/microsoft/playwright/issues/19944"
           },
           {
-            "heading": "Failed assertion: line 5259 pos 14: '_dependents.isEmpty': is not true.",
-            "url": "https://github.com/flutter/flutter/issues/118139"
+            "heading": "foreach in playwright(typescript)",
+            "url": "https://github.com/microsoft/playwright/issues/19943"
           },
           {
-            "heading": "right click on the text field after focusNode.requestFocus()",
-            "url": "https://github.com/flutter/flutter/issues/118138"
+            "heading": "[BUG] \"context.on('serviceworker'\" times out in EC2",
+            "url": "https://github.com/microsoft/playwright/issues/19942"
           },
           {
-            "heading": "[documentation] Improve the documentation for building custom widgets that include semantics",
-            "url": "https://github.com/flutter/flutter/issues/118137"
+            "heading": "[Question] How to solve github action error?",
+            "url": "https://github.com/microsoft/playwright/issues/19941"
           }
         ]
       },
       {
-        "projectUrl": "https://github.com/facebook/react-native",
+        "projectUrl": "https://github.com/FiloSottile/mkcert",
         "issues": [
           {
-            "heading": "Image Pipeline has not initialized",
-            "url": "https://github.com/facebook/react-native/issues/35784"
+            "heading": "Installing in Firefox and/or Chrome/Chromium failed",
+            "url": "https://github.com/FiloSottile/mkcert/issues/488"
           },
           {
-            "heading": "undefined reference to `facebook::react::AppSpec_ModuleProvider IN 0.70.6 ANDROID",
-            "url": "https://github.com/facebook/react-native/issues/35783"
+            "heading": "Firefox 107 - SEC_ERROR_BAD_SIGNATURE",
+            "url": "https://github.com/FiloSottile/mkcert/issues/482"
           },
           {
-            "heading": "RCT_NEW_ARCH_ENABLED=1 bundle exec pod install fails",
-            "url": "https://github.com/facebook/react-native/issues/35780"
+            "heading": "Fatal error when JAVA_HOME is set incorrectly",
+            "url": "https://github.com/FiloSottile/mkcert/issues/472"
           },
           {
-            "heading": "RefreshControl refresh indicator is not shown on iOS",
-            "url": "https://github.com/facebook/react-native/issues/35779"
+            "heading": "Google chrome returns ERR_CONNECTION_REFUSED",
+            "url": "https://github.com/FiloSottile/mkcert/issues/470"
           },
           {
-            "heading": "Since React Native 0.69, useEffects appear to be flushed synchronously even in React legacy mode",
-            "url": "https://github.com/facebook/react-native/issues/35778"
+            "heading": "Doesn't work with Synology nginx as it doesn't have a name",
+            "url": "https://github.com/FiloSottile/mkcert/issues/469"
           },
           {
-            "heading": "How react-native applets support taro products",
-            "url": "https://github.com/facebook/react-native/issues/35776"
+            "heading": "SSL certificates not accepted in browser - Safari, chrome, firefox",
+            "url": "https://github.com/FiloSottile/mkcert/issues/461"
           },
           {
-            "heading": "iOS Accessibility Value Out of Sync",
-            "url": "https://github.com/facebook/react-native/issues/35774"
+            "heading": "Trollpf",
+            "url": "https://github.com/FiloSottile/mkcert/issues/459"
           },
           {
-            "heading": "KeyboardType doesn't allow dynamic textinput color prop changing",
-            "url": "https://github.com/facebook/react-native/issues/35769"
+            "heading": "Shared CN in CA and server certs",
+            "url": "https://github.com/FiloSottile/mkcert/issues/456"
           }
         ]
       }

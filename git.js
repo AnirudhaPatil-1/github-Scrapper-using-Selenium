@@ -52,7 +52,7 @@ async function getIssues(url, i, j){
     projectCovered +=1;
     // await browser.wait(wd.until.elementsLocated(wd.By.css(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title")));
     if(projectCovered == totalProjects ){
-        fs.writeFileSync("finalData.json", JSON.stringify(finalData));
+        fs.writeFileSync("Output.json", JSON.stringify(finalData));
     }
     browser.close();
 }
